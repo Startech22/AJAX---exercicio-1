@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#quiz{
+  text-align: center;
+  padding-top: 20px;
+  width: 50%;  
+  height: 80%;
+  font-family: 'Montserrat', serif;  
+  box-shadow: 7px 7px 5px rgba(12, 12, 12, 0.77);
+  background: rgb(250, 251, 253);
+  margin:auto;  
+}
+
+html, body {  
+  background-image: linear-gradient(rgb(139, 180, 235), rgb(26, 49, 124));
+}
+
+.texto {
+  text-decoration: rgb(21, 13, 95);
+  font-weight: bold;
+  font-size: 50px;
+
+}
+#figuraAPOD {
+  padding-top: 20px;
+  width: 80%;
+  height: 80%;  
+}
+
+#start{
+  background-color: rgb(209, 223, 248);
+  padding: 10px;
+  border-radius: 10px;
+  border-color: inherit;
+  font-size: medium;
+  font-weight: bold;
+}
+
+
+
+
